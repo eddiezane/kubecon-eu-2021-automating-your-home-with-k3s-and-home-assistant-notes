@@ -1,0 +1,1 @@
+# kubecon-eu-2021-automating-your-home-with-k3s-and-home-assistant-notes
