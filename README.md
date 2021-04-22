@@ -22,7 +22,7 @@
   * [node-red helm chart](https://github.com/k8s-at-home/charts/tree/master/charts/stable/node-red)
 * [mosquitto](https://mosquitto.org/)
   * [mosquitto helm chart](https://github.com/k8s-at-home/charts/tree/master/charts/stable/mosquitto)
-* [zwavejs2mqtt)](https://github.com/zwave-js/zwavejs2mqtt)
+* [zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt)
   * [zwavejs2mqtt helm chart](https://github.com/k8s-at-home/charts/tree/master/charts/stable/zwavejs2mqtt)
 * [frigate](https://github.com/blakeblackshear/frigate)
   * [frigate helm chart](https://github.com/blakeblackshear/blakeshome-charts/tree/master/charts/frigate)
