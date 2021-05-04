@@ -37,3 +37,4 @@
   * [grafana helm chart](https://github.com/grafana/helm-charts/tree/main/charts/grafana)
 * [velero](https://velero.io/)
   * [velero helm chart](https://github.com/vmware-tanzu/helm-charts/tree/main/charts/velero)
+* [eddiezane's kubernetes manifests](https://github.com/eddiezane/pikube)
